@@ -1,3 +1,4 @@
 # Data Portfolio: Excel to Power BI
 
- assets/images/Kaggle to Power BI pipeline.gif
+
+ ![Kaggle to Power BI pipeline](assets/images/Kaggle%20to%20Power%20BI%20pipeline.gif)
