@@ -757,3 +757,66 @@ ORDER BY
 #### Output
 
 ![Most views](assets/images/youtubers_with_the_most_views.png)
+
+## Discovery
+
+- What did I learn?
+
+I discovered that 
+
+
+1. NoCopyrightSOunds, Dan Rhodes and DanTDM are the channnels with the most subscribers in the UK
+2. GRM Daily, Man City and Yogscast are the channels with the most videos uploaded
+3. DanTDM, Dan RHodes and Mister Max are the channels with the most views
+4. Entertainment channels are useful for broader reach, as the channels posting consistently on their platforms and generating the most engagement are focus on entertainment and music.
+
+## 💡 Recommendation
+
+### Recommended Creator: Dan Rhodes
+
+Dan Rhodes was selected after comparing the creators across audience and financial performance metrics.
+
+Key indicators considered included:
+
+| Metric | Dan Rhodes |
+|---|---:|
+| Subscriber Engagement Rate | 13.3K |
+| Views per Subscriber | 738.91 |
+| Average Views per Video | 9.82M |
+| Estimated Net Profit | £932K |
+
+These metrics suggested that Dan Rhodes had strong audience engagement and significant potential reach, while the estimated financial analysis indicated strong potential campaign value.
+
+### Why This Matters
+
+The purpose of the analysis was not simply to identify the most popular YouTuber.
+
+It was to help a marketing manager answer:
+
+> **"If we are going to spend money on a creator campaign, which creator should we investigate further based on the available performance and ROI data?"**
+
+The analysis provides a data-driven starting point for that decision.
+
+### Potential ROI 
+- What ROI do we expect if we take this course of action?
+
+1. Setting up a collaboration deal with Dan Rhodes would make the client a net profit of $1,065,000 per video
+2. An influencer marketing contract with Mister Max can see the client generate a net profit of $1,276,000
+3. If we go with a product placement campaign with DanTDM, this could  generate the client approximately $484,000 per video. If we advance with an influencer marketing campaign deal instead, this would make the client a one-off net profit of $404,000.
+4. NoCopyrightSounds could profit the client $642,000 per video too (which is worth considering) 
+
+
+### Action plan
+- What course of action should we take and why?
+
+Based on our analysis, we beieve the best channel to advance a long-term partnership deal with to promote the client's products is the Dan Rhodes channel. 
+
+We'll have conversations with the marketing client to forecast what they also expect from this collaboration. Once we observe we're hitting the expected milestones, we'll advance with potential partnerships with DanTDM, Mister Max and NoCopyrightSounds channels in the future.   
+
+- What steps do we take to implement the recommended decisions effectively?
+
+
+1. Reach out to the teams behind each of these channels, starting with Dan Rhodes
+2. Negotiate contracts within the budgets allocated to each marketing campaign
+3. Kick off the campaigns and track each of their performances against the KPIs
+4. Review how the campaigns have gone, gather insights and optimize based on feedback from converted customers and each channel's audiences 
