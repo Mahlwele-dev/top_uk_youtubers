@@ -647,7 +647,7 @@ WITH ChannelData AS (
         total_views,
         total_videos,
         ROUND((CAST(total_views AS FLOAT) / total_videos), -4) AS rounded_avg_views_per_video
-    FROM
+    FROMB
         youtube_db.dbo.view_uk_youtubers_2024
 )
 
